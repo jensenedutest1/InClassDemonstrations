@@ -1,4 +1,4 @@
-package com.example.demo;
+package se.jensen.javacourse;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

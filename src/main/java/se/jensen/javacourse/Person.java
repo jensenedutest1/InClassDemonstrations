@@ -1,4 +1,4 @@
-package com.example.demo;
+package se.jensen.javacourse;
 
 public class Person
 {
